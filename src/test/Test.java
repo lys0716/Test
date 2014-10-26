@@ -64,6 +64,7 @@ public class Test {
         double w=Double.valueOf(input.nextLine());
 //        int Value=Integer.parseInt(w);
         System.out.print(w);
+        System.out.print("This is the change!");
     }
 
     public static void test(double t)
