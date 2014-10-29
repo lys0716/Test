@@ -65,6 +65,7 @@ public class Test {
 //        int Value=Integer.parseInt(w);
         System.out.print(w);
         System.out.print("This is the change!");
+        System.out.print("This is GitHub!");
     }
 
     public static void test(double t)
